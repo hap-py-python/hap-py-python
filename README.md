@@ -1,9 +1,9 @@
 
-## 💙 Robotics
-## 💚 Cybernetics
-## 💙 Human-Computer Interaction HCI
-## 💚 Artificial Intelligence AI
-## 💙 Digital Design
+## 🔶 Interactive Design
+## 🔷 Game Design
+## 🔶 Human-Computer Interaction HCI
+## 🔷 Artificial Intelligence AI
+## 🔶 Software Engineering
 
 
 # 💻 Tech Stack:
